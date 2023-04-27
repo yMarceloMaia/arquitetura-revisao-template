@@ -63,7 +63,38 @@ resposta:
 }
 
 
+getBrandsById
+
+resposta:
+
+{
+    id: 
+    name: 
+    products: [
+        {
+            id:
+            name:
+            price:
+            description:
+        },
+        {
+            id:
+            name:
+            price:
+            description:
+        }
+    ]
+}
+
+
+
+
+
+
 getAllProducts
+
+
+
 
 resposta:
 
@@ -79,3 +110,5 @@ product model =
         name:
     }
 }
+
+
